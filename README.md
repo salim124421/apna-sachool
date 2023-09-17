@@ -1,2 +1,2 @@
-# apna-sachool
+# apna-school
 my first 
